@@ -1,8 +1,19 @@
 [
     {
-        "title":  "탐사 파워워시 액체세제 10L",
-        "link":  "https://link.coupang.com/a/h3j0VD2EWO",
-        "image":  "https://raw.githubusercontent.com/kimdhmeta-afk/gasungbi-cards/main/cards/2026-10-22-detergent.jpg",
+        "title":  "케라시스 데일리 두피 케어 샴푸 1.5L×2",
+        "link":  "https://link.coupang.com/a/h3rIjD8x9o",
+        "image":  "https://raw.githubusercontent.com/kimdhmeta-afk/gasungbi-cards/main/cards/2026-10-22-1904-shampoo.jpg",
         "date":  "2026-10-22"
+    },
+    {
+        "value":  [
+                      {
+                          "title":  "탐사 파워워시 액체세제 10L",
+                          "link":  "https://link.coupang.com/a/h3j0VD2EWO",
+                          "image":  "https://raw.githubusercontent.com/kimdhmeta-afk/gasungbi-cards/main/cards/2026-10-22-detergent.jpg",
+                          "date":  "2026-10-22"
+                      }
+                  ],
+        "Count":  1
     }
 ]
