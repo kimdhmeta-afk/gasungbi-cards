@@ -1,25 +1,58 @@
 [
     {
-        "no":  2,
+        "no":  8,
         "title":  "페리오 치약 10개",
         "link":  "https://link.coupang.com/a/h7FhnwXva0",
-        "image":  "https://t1c.coupangcdn.com/thumbnails/remote/1000x1000ex/image/retail/images/188403084963689-47857b3a-1ee0-4ddb-b30c-8cfa6b3c2f59.jpg",
+        "image":  "https://raw.githubusercontent.com/kimdhmeta-afk/gasungbi-cards/main/cards/2026-10-25-0805-toothpaste.jpg",
         "date":  "2026-10-25"
     },
     {
-        "value":  [
-                      {
-                          "title":  "샤워메이트 바디워시 1.2kg×2",
-                          "link":  "https://link.coupang.com/a/h6LAPu3qY8",
-                          "image":  "https://raw.githubusercontent.com/kimdhmeta-afk/gasungbi-cards/main/cards/2026-10-24-1903-body-wash.jpg",
-                          "date":  "2026-10-24"
-                      },
-                      {
-                          "value":  "@{title=피죤 섬유유연제 3.1L×4; link=https://link.coupang.com/a/h50tTVjkaq; image=https://raw.githubusercontent.com/kimdhmeta-afk/gasungbi-cards/main/cards/2026-10-24-0806-fabric-softener.jpg; date=2026-10-24} @{value=System.Object[]; Count=2}",
-                          "Count":  2
-                      }
-                  ],
-        "Count":  2,
-        "no":  1
+        "no":  7,
+        "title":  "샤워메이트 바디워시 1.2kg×2",
+        "link":  "https://link.coupang.com/a/h6LAPu3qY8",
+        "image":  "https://raw.githubusercontent.com/kimdhmeta-afk/gasungbi-cards/main/cards/2026-10-24-1903-body-wash.jpg",
+        "date":  "2026-10-24"
+    },
+    {
+        "no":  6,
+        "title":  "피죤 섬유유연제 3.1L×4",
+        "link":  "https://link.coupang.com/a/h50tTVjkaq",
+        "image":  "https://raw.githubusercontent.com/kimdhmeta-afk/gasungbi-cards/main/cards/2026-10-24-0806-fabric-softener.jpg",
+        "date":  "2026-10-24"
+    },
+    {
+        "no":  5,
+        "title":  "코멧 2겹 키친타월 8롤",
+        "link":  "https://link.coupang.com/a/h46I5lXsvA",
+        "image":  "https://raw.githubusercontent.com/kimdhmeta-afk/gasungbi-cards/main/cards/2026-10-23-1906-kitchen-towel.jpg",
+        "date":  "2026-10-23"
+    },
+    {
+        "no":  4,
+        "title":  "프릴 베이킹소다 리필 1L×2",
+        "link":  "https://link.coupang.com/a/h4lvflOpjg",
+        "image":  "https://raw.githubusercontent.com/kimdhmeta-afk/gasungbi-cards/main/cards/2026-10-23-0805-dish-soap.jpg",
+        "date":  "2026-10-23"
+    },
+    {
+        "no":  3,
+        "title":  "코멧 더블 지퍼백 중(M) 100개입",
+        "link":  "https://link.coupang.com/a/h3swN43BDM",
+        "image":  "https://raw.githubusercontent.com/kimdhmeta-afk/gasungbi-cards/main/cards/2026-10-22-1916-zipper-bag.jpg",
+        "date":  "2026-10-22"
+    },
+    {
+        "no":  2,
+        "title":  "케라시스 데일리 두피 케어 샴푸 1.5L×2",
+        "link":  "https://link.coupang.com/a/h3rIjD8x9o",
+        "image":  "https://raw.githubusercontent.com/kimdhmeta-afk/gasungbi-cards/main/cards/2026-10-22-1904-shampoo.jpg",
+        "date":  "2026-10-22"
+    },
+    {
+        "no":  1,
+        "title":  "탐사 파워워시 액체세제 10L",
+        "link":  "https://link.coupang.com/a/h3j0VD2EWO",
+        "image":  "https://raw.githubusercontent.com/kimdhmeta-afk/gasungbi-cards/main/cards/2026-10-22-detergent.jpg",
+        "date":  "2026-10-22"
     }
 ]
